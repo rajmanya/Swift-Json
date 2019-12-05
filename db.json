@@ -1,0 +1,33 @@
+{
+	"events": [{
+			"name": "NodeJs Seminar",
+			"Description": "2hr lecture on Node",
+			"Location": "Boston,Ma",
+			"Date": "22/11/2019"
+		},
+		{
+			"name": "Swift Seminar",
+			"Description": "2hr lecture on Swift",
+			"Location": "Franklin,Ma",
+			"Date": "7/5/2019"
+		},
+		{
+			"name": "Java Seminar",
+			"Description": "2hr lecture on Java",
+			"Location": "Brookline,Ma",
+			"Date": "3/11/2019"
+		},
+		{
+			"name": "Multi-Threading Seminar",
+			"Description": "2hr lecture on Multi-Threading",
+			"Location": "Foxborough,Ma",
+			"Date": "4/6/2019"
+		},
+		{
+			"name": "Dev-Ops Seminar",
+			"Description": "2hr lecture on Multi-Threading",
+			"Location": "Foxborough,Ma",
+			"Date": "4/6/2019"
+		}
+	]
+}
